@@ -1,6 +1,6 @@
 # Security Guidelines
 
-At [DigiXess](https://www.digixess.com), we take security seriously. This document outlines our guidelines for reporting and addressing security vulnerabilities to ensure the safety and integrity of our systems.
+At [DigiXess](https://www.digixess.com "Digital Solutions(Apps & Marketing) Agency"), we take security seriously. This document outlines our guidelines for reporting and addressing security vulnerabilities to ensure the safety and integrity of our systems.
 
 ## Reporting Vulnerabilities
 
