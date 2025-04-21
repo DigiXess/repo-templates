@@ -9,7 +9,7 @@ Thank you for considering contributing to this project! Please follow the guidel
 
 ## Repository Guidelines
 
-Follow the [Repository Guidelines](/code/GUIDELINES.md "Repository Guidelines") for detailed instructions on maintaining the repository.
+Follow the [Repository Guidelines](/graphic-assets/GUIDELINES.md "Repository Guidelines") for detailed instructions on maintaining the repository.
 
 ## How to Contribute
 

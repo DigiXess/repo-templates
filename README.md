@@ -5,7 +5,7 @@ The repository will be used to manage the basic repository structure & templates
 
 ## License information
 
-See [LICENSE](/LICENSE "License") for details.
+See [LICENSE](/LICENSE.md "License") for details.
 
 ## Contact Info
 

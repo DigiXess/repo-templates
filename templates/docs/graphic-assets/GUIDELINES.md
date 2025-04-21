@@ -8,6 +8,7 @@ This document outlines the guidelines and best practices to ensure consistency, 
 - [Graphic asset Review Guidelines](#graphic-asset-review-guidelines)
 - [Graphic assets structure Guidelines](#graphic-assets-structure-guidelines)
 - [Keep Files Updated](#keep-files-updated)
+- [Updating CHANGELOG](#updating-changelog)
 - [Other Guidelines](#other-guidelines)
 
 ## Repository Guidelines
@@ -28,6 +29,10 @@ Always keep the following files up to date:
 - [CHANGELOG.md](/CHANGELOG.md).
 - [README.md](/README.md).
 - [LICENSE](/LICENSE).
+
+## Updating CHANGELOG
+
+Follow the [Changelog Guidelines](https://github.com/DigiXess/repo-guidelines/blob/main/common/changelog-guidelines.md "Changelog Guidelines") for detailed instructions on maintaining the changelogs.
 
 ## Other Guidelines
 
