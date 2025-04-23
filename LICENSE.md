@@ -24,10 +24,12 @@ We retain ownership and rights to the content (templates, file structure, digita
 
 ## Contact
 
-If you have questions or comments, you may email us at **[license@digixess.com](mailto:license@digixess.com?subject=Questions%20on%20Licenses%20of%20Repo%20Guidelines)**.
+For any questions or comments, please contact us at **[license@digixess.com](mailto:license@digixess.com?subject=Questions%20on%20Licenses%20)**. 
 
 ## Governing Law
 
 These Terms will be governed by and interpreted under the laws of the **State of Karnataka, India**. Any disputes relating to these terms and conditions shall be subject to the **exclusive jurisdiction** of the **State of Karnataka, India**.
+
+---
 
 **By accessing this repository and its content, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this license.**
