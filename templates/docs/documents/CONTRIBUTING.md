@@ -9,7 +9,8 @@ Thank you for considering contributing to this project! Please follow the guidel
 
 ## Repository Guidelines
 
-Follow the [Repository Guidelines](/docs/GUIDELINES.md "Repository Guidelines") for detailed instructions on maintaining the repository.
+- Pull from the latest `<<mention-draft-tag>>` development tag before making any changes.
+- Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/blob/main/document-repo-guidelines.md "Repository Guidelines") for detailed instructions on maintaining the repository.
 
 ## How to Contribute
 
