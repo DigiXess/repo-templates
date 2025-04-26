@@ -10,6 +10,6 @@ Initial Release
 
 ---
 
-[ChangelogTemplate]:https://github.com/DigiXess/repo-templates/templates/CHANGELOG/graphic-assets/CHANGELOG-Template.md "Graphic Assets Changelog Template"  
-[ChangelogExample]: https://github.com/DigiXess/repo-templates/templates/CHANGELOG/graphic-assets/EXAMPLE.md "Example of a Changelog"
+[ChangelogTemplate]:https://github.com/DigiXess/repo-templates/blob/main/templates/CHANGELOG/graphic-assets/CHANGELOG-Template.md "Graphic Assets Changelog Template"  
+[ChangelogExample]:https://github.com/DigiXess/repo-templates/blob/main/templates/CHANGELOG/graphic-assets/EXAMPLE.md "Example of a Changelog"
 [SEMVER]: https://semver.org/spec/v2.0.0.html "Semantic Versioning"
