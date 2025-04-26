@@ -13,7 +13,7 @@ The repository will be used to manage the basic repository structure & templates
 
 ## Templates Included
 
-- [Changelog Templates](/templates/changelog "Changelog Template") - A template designed to help you maintain a changelog for projects involving code, documentation, or graphic assets.
+- [Changelog Templates](/templates/changelog/ "Changelog Template") - A template designed to help you maintain a changelog for projects involving code, documentation, or graphic assets.
 - [Doc Templates](/templates/docs/ "Document Template") -  A template designed to help you maintain a guidelines, additional documentation needed for projects involving code, documentation, or graphic assets.
 - [LICENSE Templates](/templates/license/ "License Template") - A template designed to help you outline the licensing terms for your projects.
 - [README Templates](/templates/readme/ "README Template") - A template designed to help you maintain a README file for projects involving code, documentation, or graphic assets.
