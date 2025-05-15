@@ -3,6 +3,9 @@
 
 The repository will be used to manage the basic repository structure & templates for documents, graphic assets, code etc.
 
+> ✅ **Latest Version: 1.0.1**
+> 
+
 **Table of Contents**
 
 - [Templates Included](#templates-included)
