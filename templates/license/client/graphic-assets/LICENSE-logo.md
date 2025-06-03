@@ -1,31 +1,23 @@
 # LICENSE
 
- Copyright (c) 2022-present DigiXess
-
-These Graphic assets designed and developed (hereby referred to as "**Graphics**") by **DigiXess** (hereby referred to as the "**Company**" or "**We**"). 
+These Logo designed and developed (hereby referred to as "**Logo**") by **DigiXess** (hereby referred to as the "**Company**" or "**We**"). 
 
 **Table of Contents**
 
-- [Graphics Ownership](#graphics-ownership)
-- [Graphics Usage and Limitation](#graphics-usage-and-limitation)
+- [Logo Ownership](#logo-ownership)
 - [Warranty Disclaimer](#warranty-disclaimer)
 - [Contact](#contact)
 - [Governing Law](#governing-law)
 
-## Graphics Ownership
+## Logo Ownership
 
-We acknowledge client retains ownership and rights to the Graphics. But the company reserves the right of the creator.
-
-## Graphics Usage and Limitation
-
-1. The digital assets, such as images, videos, audio, icons etc designed, may contain Creative Commons license: **CC BY-NC-ND** digital assets and are restricted to use on a single domain or single company use only.
-1. You cannot update, modify or sell commercially as a part or whole.
+We acknowledge client retains ownership and rights to the Logo. But the company reserves the right of the creator.
 
 ## Warranty Disclaimer
 
-1. The Graphics is provided "as is" without any warranties, expressed or implied.
-1. The Company does not guarantee the Graphics's accuracy, reliability, or suitability for any particular purpose.
-1. The Company shall not be liable for any direct or indirect damages arising from the use or inability to use the Graphics.
+1. The Logo is provided "as is" without any warranties, expressed or implied.
+1. The Company does not guarantee the Logo's accuracy, reliability, or suitability for any particular purpose.
+1. The Company shall not be liable for any direct or indirect damages arising from the use or inability to use the Logo.
 
 ## Contact
 
